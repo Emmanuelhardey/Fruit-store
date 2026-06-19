@@ -1,0 +1,6 @@
+{
+  "name": "JuiceCraft Artisanal Blender & Store",
+  "description": "An artisanal organic fruit juice store featuring custom AI flavor blending, real-time order tracking, and a comprehensive staff administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
